@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Trial</string>
+    <string name="check_msensor">Check mSensor</string>
+    <string name="update_values">Update Values</string>
+    <string name="update_velocity">Update Velocity</string>
+    <string name="update_orientation">Update Orientation</string>
+</resources>
